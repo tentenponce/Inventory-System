@@ -1,0 +1,217 @@
+Inventory System RC 1.0 (12/15/14) (Beta Release)
+
+-First Beta Release
+
+	Bugs:
+		-Calculating total grand price of Sales Log when datagrid is null
+
+
+Inventory System RC 1.1 (12/16/14)
+
+-Bug Fix
+-Loading Form Designed
+
+	Bugs: None
+
+
+Inventory System Alpha 1.0 (1/16/15) (Official Release)
+
+-OverAll Makeup Designed User Interface
+-Equipped Heart Stopping Animations
+-Implemented StatusBar
+-Help Added
+-Implemented Shortcut Keys
+-Implemented Average Income per Day
+
+	Bugs:
+		-Shadows on forms, sometimes it shows, sometimes not
+		-Adding Stocks, field name error
+
+
+Inventory System Alpha 1.1 (1/19/15)
+
+-First version that was used
+-Bugs Fixed
+-Expenses Form was initially added (Empty Form)
+
+	Bugs: None
+
+
+Inventory System Alpha 2.0 (1/21/15)
+
+-Expenses Added
+-Multiple Ordering Added
+-Two mode of sales log (Per Person, Per Item)
+
+	Bugs:
+		-Deleting last order Bug
+		-Deleting last record of last person on per item sort
+		-Wrong calculations of average income
+		-Wrong order calculations on stocks with decimal, decimal is not being added
+
+
+Inventory System Alpha 2.1 (1/21/15)
+
+-Search on Logging Form behavior changed to first letters only. Main form is not changed.
+-Background Theme Light and Dark Added
+-Sorting Behavior Changed to listview. (To avoid selecting datagrid so it wont override shortcuts.)
+
+	Bugs:
+		-Deleting last order Bug.
+		-Deleting last record of last person on per item sort
+		-Wrong calculations of average income
+		-Wrong order calculations on stocks with decimal, decimal is not being added
+
+
+Inventory System Alpha 2.2 (1/23/15)
+
+-Bugs Fixed
+
+	Bugs: 
+		-Wrong calculations of average income
+		-Wrong order calculations on stocks with decimal, decimal is not being added
+
+
+Inventory System Alpha 3.0 (Initial Update) (1/24/15)
+
+-Initial Money Added
+-Cash On Hold Counter Added
+-Default Theme Changed
+
+	Bugs:
+		-Expenses Logging if date is not equal today
+		-Wrong calculations of average income
+		-Wrong order calculations on stocks with decimal, decimal is not being added
+
+
+Inventory System Alpha 3.0 (Official Update) (1/25/15)
+
+-0 stocks are now highlighted.
+-Rearranged Code to avoid slow process.(Separate checking of buttons behavior and out of stock)
+-Initial Money added on database
+-Cash on Hold added on database
+-Mild Changes on Interface (Components Rearranged)
+
+	Bugs:
+		-Initial Money and Cash On Hold Button moving next null
+		-Expenses Logging if date is not equal today
+		-Wrong calculations of average income
+		-Wrong order calculations on stocks with decimal, decimal is not being added
+
+
+Inventory System Alpha 3.1 (1/25/15)
+
+-Bugs Fixed
+
+	Bugs: 
+		-Wrong calculations of average income
+		-Wrong order calculations on stocks with decimal, decimal is not being added
+
+
+Inventory System Alpha 3.2 (1/26/15)
+
+-Get Average Income Calculating Fixed (Wrong calculations, date not sorted)
+-Logging sales behavior is changed, LogDate is now based on filtered date (To date)
+-All transactions and records are now based on filtered date
+
+	Bugs: 
+		-Wrong order calculations on stocks with decimal, decimal is not being added
+
+
+Inventory System Alpha 3.3 (1/26/15)
+
+-Bugs Fixed (DECIMALS)
+
+	Bugs:
+		-Today log and all log does not affect the expenses calculations
+		-Decimal Bugs on Sales Log
+
+
+Inventory System Alpha 4.0 (2/1/15)
+
+-Added Yesterday Log Button
+-Added more shortcuts
+-More SQL Statements and rearranged code to lessen delay and lags
+-Expenses is now filtering on today and all logs
+-Fixed all decimal bugs on Access
+-Minor layout bugs fixed
+
+	Bugs: None
+
+
+Inventory System Alpha 4.1 (2/4/15)
+
+-Deleting Record Sales Logs will now return to the stock list
+-About form is added (BETA)
+-ChangeLog Form is added (BETA)
+-Restock Form added, for formal restocking
+-Code Clean-up
+
+	Bugs: None
+
+Inventory System Alpha 5.0 (2/13/15)
+
+-Added SALES REPORT (BETA)
+-Added eye-catching icon on buttons (Easier to distinguish buttons without reading)
+-Editing StockName on Stock List will now be edited also on Logs (To avoid null categories on Sales Report)
+-Code Rearranged ("Get" Subroutines turned to Functions to reduce code and for formal programming)
+
+	Bugs: Adding same record doubles the item instead of adding quantity only.
+
+Inventory System Bravo 1.0 (7/2/15)
+
+-3NF Database
+-Added Supplier Maintenance
+-Added Minimum and Maximum Stock
+-Added Expiration Date
+-Added Search By Option
+-Added Next Day Log
+-Added 2 Logs Mode (DateGroup, ItemGroup)
+-Added Tips on Loading Form
+-Bigger Sales Log
+-Added more shortcuts
+-Minor Bug fixes
+
+	Bugs: Expense Section not working.
+
+Inventory System Bravo 2.0 (7/3/15)
+
+-Record Form relayout (Bigger form and total price)
+-Expense Form bug fixed
+-Focusing datagrid on logs and expense changed to add record button and add expense buttons
+
+	Bugs: 
+		-Expense money not filtered
+		-Expense grid stucking up when logging record
+		-Outdated GrandtotalPrice on Expense Section
+
+Inventory System Bravo 2.1 (7/5/15)
+
+-Bugs Fixed
+
+	Bugs: 
+		-CashOnHold does not refresh
+
+Inventory System Bravo 2.2 (7/9/15)
+
+-Bugs Fixed
+
+	Bugs: 
+		-Date month and day getting swapped (Windows 10 update?)
+		-Change name folder bug
+
+Inventory System Bravo 2.3 (8/1/15)
+
+-Bugs Fixed
+
+	Bugs: 
+		-Power Button not working
+	Problem: 
+		-Laggy Logging System
+
+Inventory System Bravo 2.4 (8/10/15) (To Be Continued)
+
+-Getting Grand Total Price method changed (Adding instead Querying)
+-Bugs Fixed
+
+	Bugs: Incoming

@@ -1,0 +1,7 @@
+How to Use:
+1.) Press F2 Or click Add Record
+2.) Alt + S to Search Item
+3.) Hold ALT then click/hold the arrow up or down to browse
+inventory, or arrow left or right to increase orders.
+4.) Hit Enter to Add order
+5.) Finish Ordering? Hit F2 to process

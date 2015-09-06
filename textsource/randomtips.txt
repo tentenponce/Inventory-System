@@ -1,0 +1,19 @@
+All date records are based on set date (filtered date). (Even purchasing).
+Press F2 to open or record transaction.
+Press ALT + H for help about shortcuts.
+Press Escape to easily close or cancel any activity.
+Press F3 to open Expenses Window.
+Press F5 to refresh stock list.
+Press ALT + arrow up or down to scroll stock list.
+Press ALT + A to add new stock.
+Press ALT + R to open Report Window.
+Press ALT + D to delete a record.
+Deleting Records will just return to stock on hold.
+Press ALT + S to focus search bar.
+Press ALT + E to edit stock.
+Press ALT + F to open date filter.
+Press ALT + T for today log.
+Press ALT + P for previous log day.
+Press ALT + N for next log day.
+Press ALT + L for all logs.
+A Stock is Highlighted when Expired or reached its Minimum stock.

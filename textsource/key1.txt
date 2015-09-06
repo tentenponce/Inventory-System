@@ -1,0 +1,19 @@
+Add Record
+Expenses Tab
+Refresh Stock
+Add Stock/Expense
+Edit Stock
+Delete Record/Order
+Search
+Filter
+Report
+Today Log
+Previous Day Log
+Next Day Log
+All Logs
+Next Stock Record
+Previous Stock Record
+Increment/Plus Sign
+Decrement/Minus Sign
+Help
+Cancel/Exit

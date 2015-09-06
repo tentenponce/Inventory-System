@@ -1,0 +1,19 @@
+F2
+F3
+F5
+Alt + A
+Alt + E
+Alt + D
+Alt + S
+Alt + F
+Alt + R
+Alt + T
+Alt + P
+Alt + N
+Alt + L
+Alt + down arrow key
+Alt + up arrow key
+Alt + left arrow key
+Alt + right arrow key
+Alt + H
+Escape
